@@ -75,7 +75,6 @@ Display real-time speed % on LCD
 
 ```
 
-
 ----
 
 ## Final results
@@ -93,6 +92,7 @@ Display real-time speed % on LCD
 -----
 ## Wiring digram
 
+![Wiringdiagram](https://github.com/nandiniyamani/Smart-DC-Motor-Speed-Control-Using-Bluetooth-and-Microcontroller/tree/main/wiringdiagram.png)
 
 ### Conclusion
 
